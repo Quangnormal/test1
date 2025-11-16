@@ -1,0 +1,70 @@
+{
+  "Mon": "Lịch Sử Việt Nam",
+  "QA": [
+    {
+      "id": "ls_1",
+      "Q": "Ai là vị vua đầu tiên của nhà Nguyễn?",
+      "A": "Gia Long",
+      "B": "Minh Mạng", 
+      "C": "Thiệu Trị",
+      "D": "Tự Đức",
+      "True": "A"
+    },
+    {
+      "id": "ls_2",
+      "Q": "Trận chiến Điện Biên Phủ kết thúc vào năm nào?",
+      "A": "1953",
+      "B": "1954",
+      "C": "1955", 
+      "D": "1956",
+      "True": "B"
+    },
+    {
+      "id": "ls_3",
+      "Q": "Hai Bà Trưng khởi nghĩa chống lại triều đại nào?",
+      "A": "Nhà Hán",
+      "B": "Nhà Đường",
+      "C": "Nhà Tống", 
+      "D": "Nhà Minh",
+      "True": "A"
+    },
+    {
+      "id": "ls_4",
+      "type": "short_answer", 
+      "Q": "Chiến thắng Bạch Đằng năm 938 do ai lãnh đạo?",
+      "correctAnswer": "Ngô Quyền"
+    },
+    {
+      "id": "ls_5",
+      "type": "true_false_set",
+      "Q": "Xác định tính đúng sai của các sự kiện lịch sử sau:",
+      "questions": [
+        {
+          "text": "Vua Quang Trung có tên thật là Nguyễn Huệ",
+          "correct": true
+        },
+        {
+          "text": "Nhà Lý dời đô từ Hoa Lư về Thăng Long năm 1010",
+          "correct": true
+        },
+        {
+          "text": "Chiến thắng Điện Biên Phủ diễn ra vào mùa xuân",
+          "correct": false
+        },
+        {
+          "text": "Hồ Chí Minh đọc Tuyên ngôn Độc lập tại Quảng trường Ba Đình",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "ls_6",
+      "Q": "Thành phố nào được mệnh danh là 'Thủ đô kháng chiến' trong kháng chiến chống Pháp?",
+      "A": "Hà Nội",
+      "B": "Huế", 
+      "C": "Việt Bắc",
+      "D": "Sài Gòn",
+      "True": "C"
+    }
+  ]
+}
