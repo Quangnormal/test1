@@ -1,0 +1,61 @@
+{
+  "Mon": "Toán Tiểu Học",
+  "QA": [
+    {
+      "id": "toan_1",
+      "Q": "Tính: 15 + 27 = ?",
+      "A": "40",
+      "B": "41",
+      "C": "42",
+      "D": "43",
+      "True": "C"
+    },
+    {
+      "id": "toan_2", 
+      "Q": "Một hình chữ nhật có chiều dài 8cm, chiều rộng 5cm. Diện tích hình chữ nhật là:",
+      "A": "13 cm²",
+      "B": "26 cm²",
+      "C": "40 cm²",
+      "D": "45 cm²",
+      "True": "C"
+    },
+    {
+      "id": "toan_3",
+      "Q": "Số nào lớn nhất trong các số sau: 0,345; 0,435; 0,354; 0,453?",
+      "A": "0,345",
+      "B": "0,435", 
+      "C": "0,354",
+      "D": "0,453",
+      "True": "D"
+    },
+    {
+      "id": "toan_4",
+      "type": "short_answer",
+      "Q": "Tìm x biết: 3x + 7 = 22",
+      "correctAnswer": "5"
+    },
+    {
+      "id": "toan_5",
+      "type": "true_false_set",
+      "Q": "Chọn Đúng/Sai cho các khẳng định sau về hình học:",
+      "questions": [
+        {
+          "text": "Hình vuông là hình chữ nhật đặc biệt",
+          "correct": true
+        },
+        {
+          "text": "Tổng các góc trong tam giác bằng 180 độ", 
+          "correct": true
+        },
+        {
+          "text": "Hình tròn có 4 cạnh",
+          "correct": false
+        },
+        {
+          "text": "Đường kính gấp đôi bán kính",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}
