@@ -1,0 +1,52 @@
+{
+  "Mon": "Môn học_7PTRC",
+  "QA": [
+    {
+      "id": "DBT5E",
+      "Q": "1",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "True": "A"
+    },
+    {
+      "id": "YUMOX",
+      "Q": "2",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "True": "A"
+    },
+    {
+      "id": "5YEYK",
+      "Q": "3",
+      "type": "short_answer",
+      "correctAnswer": "1"
+    },
+    {
+      "id": "PAJNJ",
+      "Q": "4",
+      "type": "true_false_set",
+      "questions": [
+        {
+          "text": "1",
+          "correct": true
+        },
+        {
+          "text": "2",
+          "correct": false
+        },
+        {
+          "text": "3",
+          "correct": false
+        },
+        {
+          "text": "4",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}
