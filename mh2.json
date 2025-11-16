@@ -1,0 +1,40 @@
+{
+  "Mon": "Môn học_TXPNT",
+  "QA": [
+    {
+      "Q": "1",
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "True": "B"
+    },
+    {
+      "Q": "2",
+      "type": "short_answer",
+      "correctAnswer": "1"
+    },
+    {
+      "Q": "3",
+      "type": "true_false_set",
+      "questions": [
+        {
+          "text": "1",
+          "correct": false
+        },
+        {
+          "text": "2",
+          "correct": true
+        },
+        {
+          "text": "3",
+          "correct": true
+        },
+        {
+          "text": "4",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}
